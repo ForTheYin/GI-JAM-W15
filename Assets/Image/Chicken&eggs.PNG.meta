@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 9aae88a122b57b74e9a66bdbb6b7f52b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chicken&eggs_0
+    21300002: Chicken&eggs_1
+    21300004: Chicken&eggs_2
+    21300006: Chicken&eggs_3
+    21300008: Chicken&eggs_4
+    21300010: Chicken&eggs_5
+    21300012: Chicken&eggs_6
+    21300014: Chicken&eggs_7
+    21300016: Chicken&eggs_8
+    21300018: Chicken&eggs_9
+    21300020: Chicken&eggs_10
+    21300022: Chicken&eggs_11
+    21300024: Chicken&eggs_12
+    21300026: Chicken&eggs_13
+    21300028: Chicken&eggs_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chicken&eggs_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 168
+        height: 235
+      alignment: 9
+      pivot: {x: .473632902, y: .641372442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 245
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 222
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 265
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_5
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 285
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 119
+        width: 228
+        height: 203
+      alignment: 9
+      pivot: {x: .549233973, y: .431691349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 244
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 155
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 204
+        width: 51
+        height: 65
+      alignment: 9
+      pivot: {x: .603580236, y: .865713716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 143
+        width: 170
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_12
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 107
+        width: 101
+        height: 63
+      alignment: 9
+      pivot: {x: .382319391, y: .908766985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 55
+        width: 167
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chicken&eggs_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2
+        width: 104
+        height: 86
+      alignment: 9
+      pivot: {x: .851392329, y: .474245995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
