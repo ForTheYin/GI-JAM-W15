@@ -43,5 +43,6 @@ public class GameSetup : MonoBehaviour {
 	public void Reset_Players(){
 		Player01.GetComponent<Player_Manager> ().Fix_Egg ();
 		Player02.GetComponent<Player_Manager> ().Fix_Egg ();
+		GetComponent<GameManager> ().Reduce_Life ();
 	}
 }

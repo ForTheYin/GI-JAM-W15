@@ -9,7 +9,7 @@ public class BallControl : MonoBehaviour {
 
 	// Use this for initialization
 	IEnumerator Start () {
-		yield return new WaitForSeconds(2);
+		yield return new WaitForSeconds(3);
 		initBall();
 	}﻿
 
@@ -35,7 +35,15 @@ public class BallControl : MonoBehaviour {
 		spinning_speed = 0;
 		rigidbody2D.velocity = new Vector2 (0, 0);
 		transform.position = new Vector2 (0, 0);
-		yield return new WaitForSeconds (2);
+		Renderer[] temp = GetComponentsInChildren<Renderer> ();
+		foreach (Renderer r in temp) {
+			r.enabled = false;
+		}
+		yield return new WaitForSeconds (4);
+		foreach (Renderer r in temp) {
+			r.enabled = true;
+		}
+		yield return new WaitForSeconds (3);
 		initBall ();
 	}
 
